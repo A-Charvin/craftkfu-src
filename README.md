@@ -1,10 +1,12 @@
-#craftkfu
+#<b>Craftkfu</b>
 
-> Craftkfu is an unofficial tool without any link with Ankama, editor of WAKFU.
+Craftkfu is an unofficial tool without any link to Ankama, editor of WAKFU.
 
-A simple, only client-side tool, helping with crafting on Wakfu.
+A simple, client-side tool, helping with crafting on Wakfu,
 
-#use
+The Site shows the resources required for various professions in game.
+
+#<b> Usage </b>
 
 git clone https://github.com/Vertylo/craftkfu-src.git
 
