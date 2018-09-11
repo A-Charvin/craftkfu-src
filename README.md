@@ -1,10 +1,12 @@
-# craftkfu
+#craftkfu
 
-> Craftkfu est un outil non-officiel sans aucun lien avec Ankama, éditeur de WAKFU.
+> Craftkfu is an unofficial tool without any link with Ankama, editor of WAKFU.
 
-Un outil simple, uniquement client-side, aidant pour le crafting sur Wakfu.  
+A simple, only client-side tool, helping with crafting on Wakfu.
 
-### Utilisation
+#use
+
+git clone https://github.com/Vertylo/craftkfu-src.git
 
 ``` bash
 git clone https://github.com/Vertylo/craftkfu-src.git
@@ -15,6 +17,6 @@ npm i
 npm run dev
 ```
 
-### Remerciements
+##<b>Thanks</b>
 
-Un grand merci à Aquatikelfik, Augaroma et Magestik pour leur aide.
+Many thanks to Aquatikelfik, Augaroma and Magestik for their help.
